@@ -29,7 +29,7 @@ Here are some classic J2ME games running on Windows via Midp2Exe:
 
 ## 📦 Downloads
 
-### Current Version: 1.2.0 (2004)
+### Current Version: 1.3.0 (2004) (New 1.3.0 Runtime with Legacy 1.2.0 converted tools)
 
 | File | Description | Size |
 |------|-------------|------|

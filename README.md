@@ -210,7 +210,7 @@ This software is released as **Freeware** for educational and preservation purpo
 ## 🔗 Related Resources
 
 - [Medium Article (Traditional Chinese)](https://allenkuo.medium.com/old-new-thing-系列-midp2exe-與-midpx-的故事-5152242313bd)
-- [Medium Article (English)](https://medium.com/@yourprofile/midp2exe-story-en)
+- [Medium Article (English)](https://allenkuo.medium.com/old-new-thing-series-when-mobile-games-came-in-jar-files-the-story-of-midp2exe-and-midpx-45edc873b898)
 - [Sun J2ME Documentation (Archive)](https://web.archive.org/web/*/http://java.sun.com/j2me/)
 
 ## 💬 Community
